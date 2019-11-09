@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0ad1ab9-05d2-4f31-badc-b76218f14323" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.traves.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.traves.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/blogs/BlogFormReview.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/blogs/BlogFormReview.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +62,8 @@
       <updated>1572950817503</updated>
       <workItem from="1572950825587" duration="13171000" />
       <workItem from="1573008459041" duration="20524000" />
-      <workItem from="1573095284179" duration="20972000" />
+      <workItem from="1573095284179" duration="22197000" />
+      <workItem from="1573185163227" duration="2573000" />
     </task>
     <servers />
   </component>
@@ -71,7 +75,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
